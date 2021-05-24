@@ -1,2 +1,2 @@
 # SkinGenerator
-A Python Minecraft Skin Generator Based on Autoencoder Technology
+A Python(Pytorch) Minecraft Skin Generator Based on Autoencoder Technology
